@@ -1,7 +1,3 @@
-trin = 'Hel Wo'
-trin = 'Hel Wo'
-trin = 'Hel Wo'
-trin = 'Hel Wo'
+trin = 'Hello World'
 
-print(trin)
 print(trin)
